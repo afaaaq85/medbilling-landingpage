@@ -65,7 +65,7 @@ export default function Contact() {
             <div>
               <h3 className="font-semibold text-lg mb-1">Call:</h3>
               <a href="tel:+12702614342" className="text-gray-600 hover:text-blue-500">
-                +1 270-261-4342
+                +1 (202)-200-3085
               </a>
             </div>
           </div>

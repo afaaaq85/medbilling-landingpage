@@ -13,8 +13,8 @@ export default function Footer() {
               <p>DALLAS, TX 75238</p>
               <p>United States</p>
               <div className="pt-2">
-                <p><span className="font-medium">Phone:</span> +1 270-261-4342</p>
-                <p><span className="font-medium">Email:</span> adriannaseerustic@gmail.com</p>
+                <p><span className="font-medium">Phone:</span> +1 (202)-200-3085</p>
+                <p><span className="font-medium">Email:</span> contactyasirnaeem@gmail.com</p>
               </div>
             </div>
           </div>

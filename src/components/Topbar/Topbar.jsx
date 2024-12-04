@@ -7,12 +7,12 @@ const Topbar = () => {
         <div className="flex items-center gap-1">
           <Mail className="w-4 h-4 text-[#72A4D6] mt-[1px]" />
           <p className="text-[15px] hover:text-[#72A4D6] transisiton duration-200 ">
-            umarqadeer123@gmail.com
+            uqadeer23@gmail.com
           </p>
         </div>
         <div className="flex items-center gap-1">
           <Smartphone className="w-4 h-4 text-[#72A4D6] mt-[1px]" />
-          <p className="text-[15px]">+1 270-261-4342</p>
+          <p className="text-[15px]">+1 (202)-200-3085</p>
         </div>
       </div>
       <div className="flex gap-2 items-center w-full sm:w-auto justify-center sm:justify-center">
